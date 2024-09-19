@@ -9,6 +9,7 @@ Welcome to the Number Guessing Game! This is a graphical Java application that c
 - [How to Run](#how-to-run)
 - [Usage](#usage)
 - [Game Mechanics](#game-mechanics)
+- [Sample Output](#sample-output) 
 - [Acknowledgements](#acknowledgements)
 
 ## Features
@@ -63,5 +64,18 @@ Welcome to the Number Guessing Game! This is a graphical Java application that c
 - **nextRound()**: Advances the game to the next round or ends the game if all rounds are completed.
 - **updateLabels()**: Updates the GUI labels to reflect the current game state.
 
+## Sample Output
+### Output Screenshot
+
+### 1]
+<img src="https://github.com/user-attachments/assets/6fb28099-9ca6-41cb-be19-baad4f3c74ea" alt="Whac-A-Mole Game OutPut 1" width="700" height="400" >
+
+### 2]
+<img src="https://github.com/user-attachments/assets/b4fddb10-387d-431a-9fcc-750f9b051c5b" alt="Whac-A-Mole Game Output 2" width="400" height="400" >
+
 ## Acknowledgements
-This project was developed as a learning exercise for Java Swing and basic game logic. It is an updated version of my project, which is part of the Oasis Infobyte Internship Program. Special thanks to the Java and Swing communities for their extensive documentation and tutorials, which were invaluable in the creation of this game. Additionally, I received some help adding comments and refining the code from ChatGPT.
+
+- I watched a tutorial video on YouTube by Kenny Yip Coding, which guided me through the process of coding and making this game. I followed the tutorial and added some additional features suggested by the video creator.
+- I received valuable assistance in adding comments and refining the code from ChatGPT.
+
+## Enjoy playing Number Guessing Game!
